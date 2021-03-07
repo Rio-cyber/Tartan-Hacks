@@ -1,1 +1,4 @@
-# Tartan-Hacks
+# Hear Me Out
+Keeping up with the pace of the world is difficult. There's pressure from each and every side. And the thing that we lack the most is a non-judgmental ear. Hear Me Out is made not just for people who are depressed or upset, it is for EVERYONE! Want to tell us about your bad break up, WE are here to listen. Want to tell us about your big victory or work day, WE are happily ready to listen! Our motto is to lend an ear to all of you who want someone to listen to them! What's more? We have a short survey through which we choose the best chat rooms for you to be heard. We built this project with a view to help people let it out and feel relaxed. At Hear Me Out, no one questions you, disrespects you or judges you. All are equal and anonymous. Let it out with Hear Me Out NOW!!! 
+<br />You can check out the application on - https://hear-me-out-online.herokuapp.com/ 
+<br />Domain.com - hear-me-out.online 
